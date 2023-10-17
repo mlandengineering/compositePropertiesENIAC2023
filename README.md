@@ -18,4 +18,5 @@ Instituto Politécnico
 Universidade Federal do Rio de Janeiro
 
 ## Publicação
-ENIAC 2023 (link em breve)
+Janaina Gomide, Lucas Vignoli, and Yuri Macedo. 2023. Machine Learning Algorithms to Estimate Composite Mechanical Properties. In Anais do XX Encontro Nacional de Inteligência Artificial e Computacional, setembro 25, 2023, Belo Horizonte/MG, Brasil. SBC, Porto Alegre, Brasil, 461-472. 
+[LINK](https://sol.sbc.org.br/index.php/eniac/article/view/25721)
